@@ -113,9 +113,3 @@ Aniketh : https://github.com/Aniketh007
 
 [MIT License]
 
----
-
-This README provides a comprehensive overview of your project, including its features, technologies used, setup instructions, and usage guidelines. It's tailored to the fact that the main execution is in a Jupyter notebook (`final.ipynb`). Users can easily understand how to set up and use your image analysis system based on this documentation.
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/13521434/c8d83959-3b01-4518-ae43-2385fc197b0e/paste.txt
