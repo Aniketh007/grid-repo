@@ -9,7 +9,7 @@ Complete Architecture:
 ## Testing using Kaggle Notebooks :
 (ipynb files)
 
-Final : https://www.kaggle.com/code/rohansai2208/final/edit
+Final : https://www.kaggle.com/code/rohansai2208/final
 
 Packed unpacked detection : https://www.kaggle.com/code/rohansai2208/packed-unpacked/edit/run/202343289
 
