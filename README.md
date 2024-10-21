@@ -13,8 +13,7 @@ Final : https://www.kaggle.com/code/rohansai2208/final
 
 Packed unpacked detection : https://www.kaggle.com/code/rohansai2208/packed-unpacked/notebook
 
-QWEN OCR : https://www.kaggle.com/code/rohansai2208/qwen-ocr-01/edit
-
+QWEN OCR : [https://www.kaggle.com/code/rohansai2208/qwen-ocr-01](https://www.kaggle.com/code/vamshikuruva/qwen-ocr-01/notebook)
 
 
 ## Overview
@@ -108,6 +107,10 @@ The script generates three CSV files:
 ## Contributors
 
 Aniketh : https://github.com/Aniketh007
+
+Vamshi: https://github.com/Vamshikuruva
+
+Rajesh: https://github.com/venkatknsr
 
 ## License
 
