@@ -15,6 +15,8 @@ Packed unpacked detection : https://www.kaggle.com/code/rohansai2208/packed-unpa
 
 QWEN OCR : [https://www.kaggle.com/code/rohansai2208/qwen-ocr-01](https://www.kaggle.com/code/vamshikuruva/qwen-ocr-01/notebook)
 
+Ultralytics SAM : https://www.kaggle.com/code/rohansai2208/ultralytics-sam-1/edit
+
 
 ## Overview
 
