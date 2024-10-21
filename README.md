@@ -6,6 +6,11 @@ Complete Architecture:
 ![image](https://github.com/user-attachments/assets/d393e05e-c866-4df0-9bf4-288637c5aa17)
 
 
+## Kaggle Notebooks :
+Final.ipynb : https://www.kaggle.com/code/rohansai2208/final/edit
+
+
+
 ## Overview
 
 This project is an advanced image analysis system designed to process and classify both single and multiple object images. It utilizes state-of-the-art machine learning models to segment, classify, and extract detailed information from images of packed and unpacked items, with a focus on groceries and household products.
