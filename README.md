@@ -10,7 +10,9 @@ Complete Architecture:
 (ipynb files)
 
 Final : https://www.kaggle.com/code/rohansai2208/final/edit
+
 Packed unpacked detection : https://www.kaggle.com/code/rohansai2208/packed-unpacked/edit/run/202343289
+
 QWEN OCR : https://www.kaggle.com/code/rohansai2208/qwen-ocr-01/edit
 
 
