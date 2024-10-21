@@ -107,11 +107,11 @@ The script generates three CSV files:
 
 ## Contributors
 
-[List of contributors or your name]
+Aniketh : https://github.com/Aniketh007
 
 ## License
 
-[Specify the license, e.g., MIT License]
+[MIT License]
 
 ---
 
