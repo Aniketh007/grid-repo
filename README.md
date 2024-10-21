@@ -13,7 +13,7 @@ Final : https://www.kaggle.com/code/rohansai2208/final
 
 Packed unpacked detection : https://www.kaggle.com/code/rohansai2208/packed-unpacked/notebook
 
-QWEN OCR : https://www.kaggle.com/code/rohansai2208/qwen-ocr-01
+QWEN OCR : https://www.kaggle.com/code/rohansai2208/qwen-ocr-01/edit
 
 
 
