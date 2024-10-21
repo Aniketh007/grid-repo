@@ -6,8 +6,12 @@ Complete Architecture:
 ![image](https://github.com/user-attachments/assets/d393e05e-c866-4df0-9bf4-288637c5aa17)
 
 
-## Kaggle Notebooks :
-Final.ipynb : https://www.kaggle.com/code/rohansai2208/final/edit
+## Testing using Kaggle Notebooks :
+(ipynb files)
+
+Final : https://www.kaggle.com/code/rohansai2208/final/edit
+Packed unpacked detection : https://www.kaggle.com/code/rohansai2208/packed-unpacked/edit/run/202343289
+QWEN OCR : https://www.kaggle.com/code/rohansai2208/qwen-ocr-01/edit
 
 
 
