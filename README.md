@@ -17,6 +17,8 @@ QWEN OCR : [https://www.kaggle.com/code/rohansai2208/qwen-ocr-01](https://www.ka
 
 Ultralytics SAM : https://www.kaggle.com/code/rohansai2208/ultralytics-sam-1/
 
+Fruits and Vegetables Detection and Freshess Identification : [https://www.kaggle.com/code/rohansai2208/fruits-and-vegetables](https://www.kaggle.com/code/rohansai2208/fruits-and-vegetables)
+
 
 Dataset Created :
 
