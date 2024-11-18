@@ -13,16 +13,16 @@ Final : https://www.kaggle.com/code/rohansai2208/final
 
 Packed unpacked detection : https://www.kaggle.com/code/rohansai2208/packed-unpacked/notebook
 
-QWEN OCR : [https://www.kaggle.com/code/rohansai2208/qwen-ocr-01](https://www.kaggle.com/code/vamshikuruva/qwen-ocr-01/notebook)
+QWEN OCR : https://www.kaggle.com/code/vamshikuruva/qwen-ocr-01/notebook
 
 Ultralytics SAM : https://www.kaggle.com/code/rohansai2208/ultralytics-sam-1/
 
-Fruits and Vegetables Detection and Freshess Identification : [https://www.kaggle.com/code/rohansai2208/fruits-and-vegetables](https://www.kaggle.com/code/rohansai2208/fruits-and-vegetables)
+Fruits and Vegetables Detection and Freshess Identification : https://www.kaggle.com/code/rohansai2208/fruits-and-vegetables
 
 
 Dataset Created :
 
-Dataset used for Vegetables and Fruits Detection : [https://www.kaggle.com/datasets/rohansai2208/woking-dataset](https://www.kaggle.com/datasets/rohansai2208/woking-dataset)
+Dataset used for Vegetables and Fruits Detection : https://www.kaggle.com/datasets/rohansai2208/woking-dataset
 
 ## Overview
 
