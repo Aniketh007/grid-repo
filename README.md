@@ -18,6 +18,10 @@ QWEN OCR : [https://www.kaggle.com/code/rohansai2208/qwen-ocr-01](https://www.ka
 Ultralytics SAM : https://www.kaggle.com/code/rohansai2208/ultralytics-sam-1/
 
 
+Dataset Created :
+
+Dataset used for Vegetables and Fruits Detection : [https://www.kaggle.com/datasets/rohansai2208/woking-dataset](https://www.kaggle.com/datasets/rohansai2208/woking-dataset)
+
 ## Overview
 
 This project is an advanced image analysis system designed to process and classify both single and multiple object images. It utilizes state-of-the-art machine learning models to segment, classify, and extract detailed information from images of packed and unpacked items, with a focus on groceries and household products.
@@ -117,4 +121,5 @@ Rajesh: https://github.com/venkatknsr
 ## License
 
 [MIT License]
+
 
